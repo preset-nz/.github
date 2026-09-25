@@ -6,7 +6,7 @@ connects to what already exists: a shared library, a file format, a technique bo
 before it. Built with agents, finished by hand.
 
 The apps and the writing live at **[preset.nz](https://preset.nz)**. This organisation holds the
-parts that are worth sharing.
+parts I share.
 
 ---
 
