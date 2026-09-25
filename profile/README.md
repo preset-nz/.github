@@ -12,8 +12,8 @@ parts I share.
 
 ## What you'll find here
 
-The libraries the apps are built on, pulled out once a second app needed them. Each was copied
-between two codebases before it became a package. Browse the
+Tooling. The libraries under the apps, built as multipliers: each one is a bet that the next app
+starts further along. Some bets don't resolve. Browse the
 [repositories](https://github.com/orgs/preset-nz/repositories) for what's current; npm packages
 publish under the [`@preset.nz`](https://www.npmjs.com/org/preset.nz) scope.
 
