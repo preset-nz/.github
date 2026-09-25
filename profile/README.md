@@ -11,6 +11,6 @@ starts further along. Some bets don't resolve.
 top, many ways in and out. Any repo below is an entry point, whether an app, its source or a library
 underneath. Start anywhere, follow it anywhere, leave wherever you like.
 
-MIT licensed. Issues welcome. There's no support contract and no SLA. We don't ship missing disks.
+MIT licensed. There's no support contract and no SLA. We don't ship missing disks.
 
 <sub>Made in Aotearoa New Zealand · [preset.nz](https://preset.nz)</sub>
