@@ -1,6 +1,6 @@
 # preset.nz
 
-A one-person software studio in New Zealand. Desktop tools for image processing, mapping, colour
+A small software studio in New Zealand. Desktop tools for image processing, mapping, colour
 and sound. Built with agents. The apps and the writing live at **[preset.nz](https://preset.nz)**.
 
 This organisation holds the parts I share: apps, their source, and the tooling under them. Each
